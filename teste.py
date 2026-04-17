@@ -1,0 +1,1 @@
+print("Diego | 0 gols | 0 assitências | 0 vitorias (perdeu até no futevolei ta todo fudido igual o Santos kkkkkkkkkkkkkkkk)")
